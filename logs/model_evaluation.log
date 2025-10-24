@@ -1,0 +1,5 @@
+2025-10-24 12:10:33,016 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-10-24 12:10:35,441 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-10-24 12:10:35,461 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-10-24 12:10:35,472 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-10-24 12:10:41,626 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
