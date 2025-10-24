@@ -3,3 +3,13 @@
 2025-10-24 12:10:35,461 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
 2025-10-24 12:10:35,472 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2025-10-24 12:10:41,626 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2025-10-24 12:11:09,029 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-10-24 12:11:09,116 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-10-24 12:11:09,120 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-10-24 12:11:09,148 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-10-24 12:11:10,523 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'D:/projects/mlops/ml_pipeline_using_DVC_and_AWS_S3/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2025-10-24 12:11:33,222 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-10-24 12:11:33,310 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-10-24 12:11:33,314 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-10-24 12:11:33,324 - model_evaluation - DEBUG - Model evaluation metrics calculated
